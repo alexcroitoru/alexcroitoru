@@ -1,6 +1,6 @@
 ### Hi there 🤙
 
-I'm a Financial Analyst with a Bachelor's Degree in Statistics from Loyola University and skills in Python, Data Visualization, SQL and AWS from Northwestern's FinTech bootcamp. I prioritize strategic time management and provide detailed-oriented delivery tailored to meet client expectations.
+I'm a Financial Analyst with a Degree in Statistics from Loyola University and skills in Python, Data Visualization, SQL and AWS from Northwestern's FinTech bootcamp. I prioritize strategic time management and provide detailed-oriented delivery tailored to meet client expectations.
 
 Solidified software testing process through SDLC experience in migrating company automation solutions from Winautomation to Blue Prism.
 Passionate about exploring trending fintech repositories to incorporate into algorithmic trading projects with a focus on scalability and hyperparameter tuning.
